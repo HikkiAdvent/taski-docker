@@ -1,6 +1,6 @@
 name: Main Taski Workflow
 
-on: 
+on:
   branches:
     -main
 jobs:
